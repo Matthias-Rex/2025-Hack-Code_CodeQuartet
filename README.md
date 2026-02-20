@@ -21,9 +21,9 @@
 Egy gyors tempójú űrshooter, ahol hullámokban érkező ellenségeket kell túlélni, váltogatható fegyverekkel és körkörös pajzzsal. A cél: minél tovább életben maradni és minél több hajót megsemmisíteni.
 
 ## 🔗 Linkek
-- Repo: https://github.com/Mathtias-Rex/2025-Hack-Code_CodeQuartet  
-- Élő verzió (GitHub Pages): https://matthias-rex.github.io/2025-Hack-Code_CodeQuartet/
-- Dokumentáció: https://docs.google.com/document/d/13NXcpiW93O5UR7akSgF4HZ35JAJh8hIl-QbO46UiaiU/edit?tab=t.0
+- [Repo](https://github.com/Matthias-Rex/2025-Hack-Code_CodeQuartet)  
+- [Élő verzió (GitHub Pages)](https://matthias-rex.github.io/2025-Hack-Code_CodeQuartet/)
+- [Dokumentáció](https://docs.google.com/document/d/13NXcpiW93O5UR7akSgF4HZ35JAJh8hIl-QbO46UiaiU/edit?tab=t.0)
 
 ## 📜 Sztori
 A kolónia utolsó vadászpilótájaként feladatod áttörni az ellenség blokádján. A pajzsok és a fegyverek közti okos váltás a kulcs a túléléshez.
